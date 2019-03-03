@@ -1,0 +1,6 @@
+.terraform
+node_modules
+*.zip
+package-lock.json
+yarn.lock
+terraform.tfstate*
